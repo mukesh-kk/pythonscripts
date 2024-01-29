@@ -1,3 +1,3 @@
-# Scripts for data scapping usign 
+# Scripts for data scrapping using 
 - request (for making requests)
-- BeautifulSoup (xml parser)
+- BeautifulSoup (XML parser)
